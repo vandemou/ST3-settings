@@ -1,0 +1,8 @@
+{
+	"unused_css_delete_on_search": false,
+	"unused_css_highlight_selectors": true,
+	"unused_css_ignore_selectors":
+	[
+		"\n\t\t/* /\\/\\/\\/\\/\\/\\/\\/\\/ CLIENT-SPECIFIC STYLES /\\/\\/\\/\\/\\/\\/\\/\\/ */\n\t\t#outlook a {\n\t\tpadding:0;\n\t\t}"
+	]
+}
